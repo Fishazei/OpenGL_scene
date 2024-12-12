@@ -1,16 +1,11 @@
 ﻿/*
 * Выполнение сцены, начальная идея: lowpoly станция метро
-* 
-* Стороние библиотеки:
-* | 
-* | 
-* | 
-* 
 */
 
 #include <iostream>
+#include <Globals.h>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
 }
